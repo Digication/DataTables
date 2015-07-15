@@ -11,9 +11,6 @@
 		"media/images"
 	],
 	"license": "MIT",
-	"dependencies": {
-		"jquery": ">=1.7"
-	},
 	"author": {
 		"name": "Allan Jardine",
 		"url": "http://sprymedia.co.uk"
