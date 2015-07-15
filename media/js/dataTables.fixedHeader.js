@@ -1016,7 +1016,7 @@ if ( typeof define === 'function' && define.amd ) {
 }
 else if ( typeof exports === 'object' ) {
     // Node/CommonJS
-   require('datatables') );
+   factory( require('datatables') );
 }
 else if ( jQuery && !jQuery.fn.dataTable.FixedHeader ) {
 	// Otherwise simply initialise as normal, stopping multiple evaluation
