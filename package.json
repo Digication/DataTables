@@ -6,7 +6,6 @@
 	"files": [
 		"media/js/jquery.dataTables.js",
 		"media/js/jquery.dataTables.min.js",
-		"media/js/dataTables.fixedHeader.js",
 		"media/css/jquery.dataTables.css",
 		"media/css/jquery.dataTables.min.css",
 		"media/images"
